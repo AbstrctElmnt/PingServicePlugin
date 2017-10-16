@@ -1,0 +1,20 @@
+<someservice id="PingService">
+<description>BdasPingService</description>
+<properties>
+    <property>
+        <key>JQL Query</key>
+        <name>Specify JQL Query (required for service):</name>
+        <type>string</type>
+    </property>
+    <property>
+        <key>User</key>
+        <name>Specify Ping Author (required for service):</name>
+        <type>string</type>
+    </property>
+    <property>
+        <key>Template</key>
+        <name>Specify Comment Body (required for service):</name>
+        <type>string</type>
+    </property>
+</properties>
+</someservice>
